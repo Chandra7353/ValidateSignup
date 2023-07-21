@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "id": 101,
+      "username": "test",
+      "userPassword": "test@123",
+      "userEmail": "test@gmail.com",
+      "userPhno": "9874562540",
+      "DOB": "15/05/2000",
+      "Note": [
+        {
+          "title": "reactjs",
+          "content": "it is a open source frotend javasript liberary"
+        }
+      ]
+    },
+    {
+      "username": "raju",
+      "userPass": "raju123",
+      "userEmail": "raju@gmail.com",
+      "userPhno": "9874682584",
+      "dob": "2023-07-12",
+      "Note": {},
+      "id": 102
+    }
+  ]
+}
